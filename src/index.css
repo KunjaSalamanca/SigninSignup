@@ -16,5 +16,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: turquoise;
+  background: url(./assets/images\ \(3\).jpg)no-repeat;
+  background-size: cover;
+  background-position: center;
 }
